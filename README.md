@@ -1,6 +1,6 @@
 # Foo-D-Mah: A Personalized Food Recommendation App
 
-Foo-D-Mah is a high-fidelity mobile application prototype designed for the University of Minnesota's UI Design course, and is named after the university's popular "Ski-U-Mah". It tackles the challenge of finding dining options that cater to personal dietary restrictions, preferences, and real-time restaurant data, aiming to reduce decision fatigue and provide a truly user-centered discovery experience.
+Foo-D-Mah is a high-fidelity mobile application prototype designed for the University of Minnesota's UI Design course, and is named after the university's popular slogan "Ski-U-Mah". It tackles the challenge of finding dining options that cater to personal dietary restrictions, preferences, and real-time restaurant data, aiming to reduce decision fatigue and provide a truly user-centered discovery experience.
 
 ---
 
