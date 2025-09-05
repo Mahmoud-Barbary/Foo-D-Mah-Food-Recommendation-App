@@ -45,15 +45,13 @@ We began by conducting 6 user interviews to understand the pain points of existi
 
 We used affinity mapping to cluster our findings and identify core user needs.
 
-*Image to upload: `User Research (Milestone 1)/MiroBoard.png`*
 ![Affinity Mapping](User%20Research/MiroBoard.png)
 
 #### **2. Milestone 2: Low-Fidelity Prototyping & Heuristic Evaluation**
 
 Based on our research, we created low-fidelity prototypes using whiteboard sketches to establish the core layout and user flow.
 
-*Images to upload: `Design Prototype (Milestone 2)/“Initial” Low-Fidelity Prototype Drafts/IMG_3814.HEIC` and `Design Prototype (Milestone 2)/Final-Low-Fidelity-Prototype-Part2.HEIC`*
-![Low-Fidelity Sketch 1](Design%20Prototyping/IMG_3814.HEIC)
+![Low-Fidelity Sketch 1](Design%20Prototyping/Low_Fidelity_Sketches/IMG_3814.HEIC)
 
 Our team then conducted a thorough **heuristic evaluation** based on Nielsen's 10 Heuristics. This helped us identify major usability issues early on, such as unclear icons, inconsistent layouts, and poor feedback mechanisms, before moving to a high-fidelity design.
 
