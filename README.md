@@ -49,9 +49,7 @@ We used affinity mapping to cluster our findings and identify core user needs.
 
 #### **2. Milestone 2: Low-Fidelity Prototyping & Heuristic Evaluation**
 
-Based on our research, we created low-fidelity prototypes using whiteboard sketches to establish the core layout and user flow.
-
-![Low-Fidelity Sketch 1](Design Prototyping/“Initial” Low-Fidelity Prototype Drafts/IMG_3814.HEIC)
+Based on our research, we created low-fidelity prototypes using whiteboard sketches to establish the core layout and user flow. (See Design Prototyping folder)
 
 Our team then conducted a thorough **heuristic evaluation** based on Nielsen's 10 Heuristics. This helped us identify major usability issues early on, such as unclear icons, inconsistent layouts, and poor feedback mechanisms, before moving to a high-fidelity design.
 
